@@ -13,7 +13,7 @@
 <body>
   <h1>changed by Subha Mishra and now again checking if it is working or not</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    This is a very simple example web page on a JSP and it is made my one of the finest teachers I have ever learnt from.
   </p>
 </body>
 </html>
